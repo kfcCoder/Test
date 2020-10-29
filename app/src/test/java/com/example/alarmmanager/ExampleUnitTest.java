@@ -1,4 +1,4 @@
-package com.example.alarmmanagerexample;
+package com.example.alarmmanager;
 
 import org.junit.Test;
 

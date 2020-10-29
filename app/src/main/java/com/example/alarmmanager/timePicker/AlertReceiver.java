@@ -1,15 +1,16 @@
-package com.example.alarmmanagerexample;
+package com.example.alarmmanager.timePicker;
 
 import android.app.Notification;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-import android.widget.Toast;
 
 import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
 
-import static com.example.alarmmanagerexample.App.CHANNEL_ID;
+import com.example.alarmmanager.R;
+
+import static com.example.alarmmanager.timePicker.App.CHANNEL_ID;
 
 public class AlertReceiver extends BroadcastReceiver {
     @Override

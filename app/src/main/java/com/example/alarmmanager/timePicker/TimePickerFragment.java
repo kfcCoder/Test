@@ -1,4 +1,4 @@
-package com.example.alarmmanagerexample;
+package com.example.alarmmanager.timePicker;
 
 import android.app.Dialog;
 import android.app.TimePickerDialog;

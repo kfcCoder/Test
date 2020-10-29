@@ -1,4 +1,4 @@
-package com.example.alarmmanagerexample;
+package com.example.alarmmanager.timePicker;
 
 import android.annotation.TargetApi;
 import android.app.Application;
